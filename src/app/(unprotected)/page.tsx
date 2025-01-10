@@ -16,17 +16,17 @@ export default function Page() {
   return (
     <main>
       <div className="mt-28 flex flex-col items-center sm:mt-36">
-        <a href="https://twitter.com/norciodotdev">
-          <p className="inline-block rounded-lg bg-card px-3 py-2 text-card-foreground">Follow me on X</p>
+        <a href="https://x.com/firdausa_com" target="blank">
+          <p className="inline-block rounded-lg bg-card px-3 py-2 text-card-foreground">Follow us on X</p>
         </a>
         <h1 className="mt-4 px-5 text-center text-2xl sm:text-5xl">
-          A responsive and accessible full stack social media web app.
+          Part of jawir familia ERP and Bigdata Analysis
         </h1>
         <div className="mt-6 flex justify-center gap-3">
           <ButtonLink href="/login" size="medium">
             Get Started
           </ButtonLink>
-          <ButtonAnchor href="https://github.com/leandronorcio/munia" size="medium" mode="secondary">
+          <ButtonAnchor href="https://github.com/faruhankun/firdausa" size="medium" mode="secondary">
             Github
           </ButtonAnchor>
         </div>

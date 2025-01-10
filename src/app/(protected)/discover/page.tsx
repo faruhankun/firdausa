@@ -3,7 +3,7 @@ import { DiscoverProfiles } from '@/components/DiscoverProfiles';
 import { DiscoverSearch } from '@/components/DiscoverSearch';
 
 export const metadata = {
-  title: 'Munia | Discover',
+  title: 'Firdausa | Discover',
 };
 
 export default async function Discover() {
